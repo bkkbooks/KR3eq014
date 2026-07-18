@@ -25,7 +25,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq014_000.markers.yaml, hash: 'sha256:26d01744f742c09606bcb199cba87957d2869599907d629a7a7996799ab86fa6'}
   - {seq: 1, role: markers, filename: assets/KR3eq014_001.markers.yaml, hash: 'sha256:0f5bddcb96f9b2ef5c5d426b7173ed761ed6f63f73abe2a72c5001ea6db12f6e'}
-  - {seq: 2, role: markers, filename: assets/KR3eq014_002.markers.yaml, hash: 'sha256:dca5076856d8387d4652d9adc9db2c8c593f720cc7de925d853c3f0c3cc592e4'}
+  - {seq: 2, role: markers, filename: assets/KR3eq014_002.markers.yaml, hash: 'sha256:7baca2f42af49dec9080d761c9c90ceaddb808eb3a9b8c69485f6ef4cd171212'}
   - {seq: 3, role: markers, filename: assets/KR3eq014_003.markers.yaml, hash: 'sha256:4c381233e56a09186266203906f19c60d731f505b438f29a32c5527cccb01255'}
   - {seq: 4, role: markers, filename: assets/KR3eq014_004.markers.yaml, hash: 'sha256:66d01db712ba32367f2590fd5ef2cb79aa0b2fe0d1c240eaa5e30f458dea9867'}
 table_of_contents:
@@ -1599,7 +1599,7 @@ table_of_contents:
   label: 讀金匱書後
   type: section
   level: 2
-hash: sha256:03fcf714525ff80fa303bdaf383ac63340e3c089d18d0754df9477253b3cfcf3
+hash: sha256:6445f53025805fe41110f519fcd6e6b2a617582e3f98eabb58f90798c058f9c2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

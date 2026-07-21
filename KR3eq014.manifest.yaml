@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq014_000.yaml, hash: 'sha256:a165f0500c08990ee4cbe3dc873d706c165de611b304db103df20b7901ca2a03'}
+  - {seq: 0, filename: KR3eq014_000.yaml, hash: 'sha256:c29ae0a23347bef501b719d9b4142fbb907e6de78724f14ddc9cc0adf657a0e5'}
   - {seq: 1, filename: KR3eq014_001.yaml, hash: 'sha256:9cac88d7efc0e8afd0461b35f26c1f7d0a3f9297dd703e15a1762f0d9b97c10d'}
   - {seq: 2, filename: KR3eq014_002.yaml, hash: 'sha256:c2150cf78a89919524de63512e5b7fcb9d9d55cbd41f17242f2f35e656bf2f1d'}
   - {seq: 3, filename: KR3eq014_003.yaml, hash: 'sha256:c3fe6926ccd7d423f41f116f27e52bc237e7cffb731193fb3407eb183c822407'}
   - {seq: 4, filename: KR3eq014_004.yaml, hash: 'sha256:f2fb75315bb2a674d23f8288b9acfc3a427772c502222abdf4264382469d26c7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq014_000.markers.yaml, hash: 'sha256:26d01744f742c09606bcb199cba87957d2869599907d629a7a7996799ab86fa6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq014_000.markers.yaml, hash: 'sha256:589603936ba7d7807b6c7998cac90109cf7fae2d139feb710860420de4f80eb2'}
   - {seq: 1, role: markers, filename: assets/KR3eq014_001.markers.yaml, hash: 'sha256:0f5bddcb96f9b2ef5c5d426b7173ed761ed6f63f73abe2a72c5001ea6db12f6e'}
   - {seq: 2, role: markers, filename: assets/KR3eq014_002.markers.yaml, hash: 'sha256:7baca2f42af49dec9080d761c9c90ceaddb808eb3a9b8c69485f6ef4cd171212'}
   - {seq: 3, role: markers, filename: assets/KR3eq014_003.markers.yaml, hash: 'sha256:4c381233e56a09186266203906f19c60d731f505b438f29a32c5527cccb01255'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq014_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 440
   label: 袁序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq014_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 440
     - 805
   label: 陸序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq014_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 805
     - 1191
   label: 陸序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq014_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1191
     - 1418
   label: 自序
@@ -1599,7 +1599,7 @@ table_of_contents:
   label: 讀金匱書後
   type: section
   level: 2
-hash: sha256:6445f53025805fe41110f519fcd6e6b2a617582e3f98eabb58f90798c058f9c2
+hash: sha256:3b8c0fe8ce5bcbc9fafb3bee3e0e2e36b94c3b3a540779834b2ebb7cb3f2c42a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
